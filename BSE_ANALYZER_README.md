@@ -5,7 +5,7 @@ A comprehensive Python application that fetches, analyzes, and evaluates the cre
 ## Features
 
 ### 🔍 **Real-time Data Fetching**
-- Fetches latest corporate announcements from BSE India API
+- Fetches latest corporate announcements from BSE India API 
 - Mock API integration for development and testing
 - Fallback mechanisms for offline functionality
 - Support for multiple data sources
